@@ -56,17 +56,11 @@
 ### 📈 GitHub & LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyanshu812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu812&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyanshu812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu812&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priyanshu812&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img src="https://leetcard.jacoblin.cool/ApY9NKwJEg?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ApY9NKwJEg?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshu812&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
