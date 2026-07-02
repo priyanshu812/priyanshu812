@@ -24,12 +24,12 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -39,14 +39,14 @@
 
 #### 🧠 AI/ML & Generative AI
 - **[Chat with PDF (RAG-Based AI Chatbot)](https://github.com/priyanshu812/pdf-rag-chatbot)**: Architected an end-to-end RAG pipeline using Gemini embeddings and FAISS to query PDFs up to 150+ pages with sub-3s retrieval.
-- **[Restaurant Intelligence ML App](https://github.com/priyanshu812/ml-restaurant-rating-predictor)**: Built a predictive ML web app for restaurant ratings using Random Forest, achieving high accuracy with extensive feature engineering.
-- **[Potato Chip AI (Quality Monitoring System)](https://github.com/priyanshu812/potato-chip-ai-quality-monitor)**: Developed a dual-model CV system using CNN (MobileNetV2) for visual defect detection and Random Forest for process risk prediction.
-- **[Emotion Detector NLP](https://github.com/priyanshu812/emotion-detector-nlp)**: NLP-based text emotion classifier using TF-IDF and Logistic Regression across 6 emotion classes.
-- **[Heart Disease Risk Predictor](https://github.com/priyanshu812/heart-disease--prediction)**: Clinical classification model deployed with Streamlit predicting heart disease risk with 86.96% accuracy.
+- **[Potato Chip AI (Quality Monitoring System)](https://github.com/priyanshu812/potato-chip-ai-quality-monitor)**: Led a team of 5 to build a dual-model CV system — CNN (MobileNetV2) for defect classification (93.87% accuracy) and Random Forest for quality scoring (R² = 0.912). Co-authored an IEEE-format research paper on the methodology.
+- **[Restaurant Intelligence ML App](https://github.com/priyanshu812/ml-restaurant-rating-predictor)**: Built a predictive ML web app for restaurant ratings using Random Forest with 61 engineered features (R² = 0.652, MAE = 0.228), tuned via GridSearchCV.
+- **[Heart Disease Risk Predictor](https://github.com/priyanshu812/heart-disease--prediction)**: Benchmarked 5 classification models and deployed the best performer with Streamlit, achieving 86.96% accuracy on patient risk prediction.
+- **[Emotion Detector NLP](https://github.com/priyanshu812/emotion-detector-nlp)**: NLP-based text emotion classifier using TF-IDF and Logistic Regression, achieving 86.15% accuracy across 6 emotion classes.
 
-#### 💻 Full Stack & Automation
-- **[AutoStream Social to Lead Agent](https://github.com/priyanshu812/autostream-social-to-lead-agent)**: Conversational AI agent built with LangGraph, Groq, and FAISS RAG to detect user intent and capture qualified leads.
+#### 💻 Other Projects
 - **[Sarcastic AI Chatbot](https://github.com/priyanshu812/sarcastic-ai-chatbot)**: Full-stack witty AI chatbot built with Next.js, FastAPI, and Arcee AI Trinity.
+- **[AutoStream Social to Lead Agent](https://github.com/priyanshu812/autostream-social-to-lead-agent)**: Conversational AI agent built with LangGraph, Groq, and FAISS RAG to detect user intent and capture qualified leads.
 
 #### 🔬 Research & Analysis
 - **[Bitcoin Sentiment Trader Analysis](https://github.com/priyanshu812/bitcoin-sentiment-trader-analysis)**: Correlation analysis of Bitcoin Fear/Greed index against Hyperliquid trader performance using pandas and seaborn.
